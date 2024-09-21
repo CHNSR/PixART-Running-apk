@@ -1,5 +1,5 @@
 This app it's my undergrad thesis running tracking app
-  fearture
+  feature
     -tracking
     -show activity
     -navigation
